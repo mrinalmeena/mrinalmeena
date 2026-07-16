@@ -18,6 +18,13 @@ I enjoy building intelligent applications, exploring Large Language Models, cont
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrinalmeena/mrinalmeena/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+
 # Featured Projects
 
 ### Deep Detect
